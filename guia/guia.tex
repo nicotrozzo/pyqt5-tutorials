@@ -21,6 +21,11 @@ como pip principalmente, o el propio int\'erprete de Python. Si no te funciona, 
     \begin{center}
         \textbf{pip install PyQt5}
     \end{center}
+
+    \item \textbf{PyQt5-tools/QtDesigner:} Las herramientas de dise\~no QtDesginer, entre otras, para usar con este framework hay que instalarlas con otro comando:
+    \begin{center}
+        \textbf{pip install pyqt5-tools}
+    \end{center}
 \end{itemize}
 
 \section{Comandos para consola de windows}
@@ -74,3 +79,20 @@ para importar un paquete o m\'odulo en forma absoluta, podr\'ias \href{https://r
     \includegraphics[scale=0.3]{imagenes/cmd/cmd_6.PNG}
     \caption{Ejemplo de la ubicaci\'on de los scripts de Python}
 \end{figure}
+
+\subsection{Compilar los dise\~nos de QtDesigner}
+Con la consola de Windows/Linux abierta, posicionado en la carpeta donde tenemos el archivo "*.ui" que creamos y editamos con el QtDesigner,
+luego corremos la siguiente l\'inea para compilarlo. Sobre las ventajas o desventajas de este m\'etodo para utilizar los dise\~nos que realizamos en QtDesigner,
+es necesario leer otra secci\'on del documento.
+
+\begin{center}
+    \textbf{pyuic5 -x filename.ui -o output.py}
+\end{center}
+
+\subsection{Compilar los recursos de QtDesigner}
+Con la consola de Windows/Linux abierta, posicionado en la carpeta donde tenemos el archivo "*.qrc" que creamos y editamos con el QtDesigner,
+luego corremos la siguiente l\'inea para compilarlo.
+
+\begin{center}
+    \textbf{pyrcc5 filename.qrc -o output.py}
+\end{center}
