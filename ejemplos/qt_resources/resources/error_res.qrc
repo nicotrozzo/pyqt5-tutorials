@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="err_prefix">
+    <file>icon_error.gif</file>
+    <file>error_icon.jpg</file>
+  </qresource>
+</RCC>
