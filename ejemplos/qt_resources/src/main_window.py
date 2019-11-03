@@ -4,8 +4,7 @@
 
 # PyQt Modules
 from ejemplos.qt_resources.src.ui.main_window import *
-from ejemplos.qt_resources.src.error_dialog import ErrorDialog
-
+from PyQt5.QtWidgets import QMessageBox
 
 class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self, *args, **kwargs):
@@ -13,11 +12,20 @@ class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
         self.setupUi(self)
         self.setWindowTitle("")
         self.racing_check.setText("Soy hincha de Racing")
-        self.dialog = ErrorDialog()     # instanciamos el cuadro de dialogo a abrir
         self.racing_check.pressed.connect(self.open_dialog)
+        self.dialog2 = QtWidgets.QMessageBox(QMessageBox.Warning, "Hincha de Racing!?",
+                                             "Error. No se encontraron Copas Libertadores", QMessageBox.Ok)
+        self.img.hide()
+
 
     def open_dialog(self):
         if not self.racing_check.isChecked():
-            self.dialog.show()
+            self.dialog2.show()
+            self.resize(214, 301)
+            self.racing_check.setChecked(True)
+            self.img.show()
         else:
-            self.dialog.hide()
+            self.dialog2.hide()
+            self.resize(214, 74)
+            self.racing_check.setChecked(False)
+            self.img.hide()

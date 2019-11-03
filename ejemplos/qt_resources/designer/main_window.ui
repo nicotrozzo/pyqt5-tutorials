@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>214</width>
-    <height>74</height>
+    <height>301</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -27,6 +27,22 @@
      <string/>
     </property>
    </widget>
+   <widget class="QLabel" name="img">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>60</y>
+      <width>181</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:url(:/err_prefix/racing_mufa.jpg)</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -40,6 +56,8 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
- <resources/>
+ <resources>
+  <include location="../resources/error_res.qrc"/>
+ </resources>
  <connections/>
 </ui>

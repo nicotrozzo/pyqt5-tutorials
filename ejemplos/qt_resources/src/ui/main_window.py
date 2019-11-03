@@ -12,13 +12,18 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(214, 74)
+        MainWindow.resize(214, 301)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.racing_check = QtWidgets.QCheckBox(self.centralwidget)
         self.racing_check.setGeometry(QtCore.QRect(50, 20, 141, 17))
         self.racing_check.setText("")
         self.racing_check.setObjectName("racing_check")
+        self.img = QtWidgets.QLabel(self.centralwidget)
+        self.img.setGeometry(QtCore.QRect(20, 60, 181, 211))
+        self.img.setStyleSheet("border-image:url(:/err_prefix/racing_mufa.jpg)")
+        self.img.setText("")
+        self.img.setObjectName("img")
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 214, 21))
@@ -36,6 +41,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
 
 
+from ejemplos.qt_resources.src.main_window import *
 
 
 if __name__ == "__main__":
