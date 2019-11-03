@@ -21,6 +21,123 @@ esta ventana de QtDesigner es un Dialog!).
     \label{fig:qt_new_file}
 \end{figure}
 
+\subsection{¿Qu\'e es cada cosa en la IDE?}
+Es importante conocer la organizaci\'on general de la IDE que estamos usando, saber de qu\'e es capaz puede ser un conocimiento
+\'util para solucionar problemas f\'acilmente. En primer lugar veamos en la Fig. \ref{fig:qt_ide_0} algunas cosas elementales, la WidgetBox,
+nuestro espacio de trabajo y dise\~no, y las opciones de Layout del Widget.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.44]{imagenes/qtdesigner/qt_ide_0.png}
+    \caption{Esquema inicial de la IDE}
+    \label{fig:qt_ide_0}
+\end{figure}
+
+Ahora, para continuar con la descripci\'on del ejemplo vamos a hacer algunas cosas sencillas. Recordemos,
+no importa no entender algunas cosas de c\'omo es PyQt, sino reconocer las partes de la IDE, por ahora...
+Entonces agregamos un HorizontalSlider, un LCDNumber y luego aplicando un VerticalLayout, se obtiene esta Fig. \ref{fig:qt_ide_1}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.44]{imagenes/qtdesigner/qt_ide_1.png}
+    \caption{Editores m\'as avanzados}
+    \label{fig:qt_ide_1}
+\end{figure}
+
+\subsubsection{Object Inspector}
+En PyQt existen tres elementos vamos a estar creando, que son el QWidget, QMainWindow y el QDialog. No obstante toda entidad que utilicemos hereda eventualmente
+de un QWidget, y armar una ventana es poner QWidgets uno dentro de otros de forma organizada para armar nuestra aplicaci\'on, lo cual nos deber\'ia dejar la idea
+de que internamente esto se comporta como un \'arbol, y el mismo se puede visualizar en el Object Inspector.
+En el ejemplo vemos un QWidget, que internamente posee dos objetos y el campo \textbf{Object} es el nombre de la instancia durante ejecuci\'on,
+con lo cual esto debe tener un nombre adecuado a la convenci\'on de Python de forma representativa.
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{c c}
+        \includegraphics[scale=0.7]{imagenes/qtdesigner/qt_object_inspector.PNG} \\
+        \includegraphics[scale=0.4]{imagenes/qtdesigner/qt_object_inspector_3.png}
+    \end{tabular}
+    \caption{Object Inspector de QtDesigner}
+    \label{fig:qt_object_inspector}
+\end{figure}
+
+\subsubsection{Property Editor}
+Cada uno de los objetos que pertenecen al \'arbol que muestra el Object Inspector, esta construido con un conjunto de clases a trav\'es del uso de un 
+patr\'on de dise\~no de composici\'on. Lo importante es que podemos editar propiedades o atributos de cada una de esas partes que componen a nuestro objeto.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{imagenes/qtdesigner/qt_property_editor.PNG}
+    \caption{Property Editor de QtDesigner}
+    \label{fig:qt_property_editor}
+\end{figure}
+
+\subsubsection{Resource Browser}
+El Resource Browser es muy importante, b\'asicamente para poder crear una ventana en la cual queremos incorportar contenido personalizado, sean imagenes,
+audio o videos, e incluso archivos... es necesario crear lo que se define como un \textbf{Resource}. Cuando lo creamos, internamente podemos crear subcarpetas
+para clasificar el contenido, por ejemplo, si queremos usar algunas imagenes para un bot\'on y otras para otro bot\'on, de esta forma cuando queramos utilizarlas estar\'an
+disponibles.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{imagenes/qtdesigner/qt_resource_browser_0.PNG}de
+    \caption{Resource Browser: Ventana de recursos, apretando el lapiz las administramos}
+    \label{fig:qt_resources_0}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{imagenes/qtdesigner/qt_resource_browser_1.PNG}de
+    \caption{Resource Browser: Con la hoja abajo a la izquierda creamos nuevos recursos.}
+    \label{fig:qt_resources_1}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{imagenes/qtdesigner/qt_resource_browser_2.PNG}de
+    \caption{Resource Browser: Agregamos Paths y sus contenidos}
+    \label{fig:qt_resources_2}
+\end{figure}
+
+En primer lugar, ten\'e en cuenta que esto genera un archivo que seg\'un el ejemplo se llama \textbf{"test.qrc"}, este mismo
+va a tener que ser compilado al igual que el dise\~no de la interfaz. Esto \'ultimo ser\'a explicado m\'as adelante.
+
+\subsubsection{Signal/Slot Editor}
+La IDE de QtDesigner tiene 4 modos de funcionamiento para el dise\~no de la aplicaci\'on y siempre nos encontramos en el modo
+de edici\'on de Widgets. Otro modo posible es el de edici\'on de Signal/Slots, de lo cual podes aprender qu\'e es en \nameref{signal_slot_property},
+mientras tanto consideremos que son eventos y callbacks para poder conectar funcionalidades de la aplicaci\'on. Este proceso de conexi\'on se puede hacer por c\'odigo
+siempre, pero a veces se puede hacer en el modo de edici\'on mencionado, usando el bot\'on de la barra de herramientas o con F4.
+
+En la Fig. \ref{fig:qt_signal_slot_0} se puede ver que nos aparece en rojo los Widgets, seleccionamos uno y arrastramos hacia otro,
+al conectarse nos permite elegir una Signal del primero con un Slot del seguno a ser ejecutado. En este caso puedo utilizar sliderMoved(int)
+con display(int).
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.6]{imagenes/qtdesigner/qt_signal_slot_mode.PNG}
+    \caption{Modo de edici\'on por Signal y Slot}
+    \label{fig:qt_signal_slot_0}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.6]{imagenes/qtdesigner/qt_slot_singla.PNG}
+    \caption{Ventana de conexiones de Signal y Slot}
+    \label{fig:qt_signal_slot_1}
+\end{figure}
+
+\subsubsection{Action Editor}
+En el dise\~no de aplicaciones de escritorio se usa mucho el concepto de Comandos, proveniente del patr\'on de dise\~no, donde lo que se busca es que una acci\'on
+que es com\'unmente ejecutada por diversos eventos est\'e disponible de una forma distinta que un callback o slot. Eso es una QAction en PyQt.
+Para que quede claro, la opci\'on "Guardar", en una aplicaci\'on es un comando, y en PyQt se har\'ia como un QAction. De esta forma se puede vincular
+para que sea disparada (.triggered()) por diferentes Widgets. S\'i, es casi lo mismo que un Slot.
+
+
+Estas acciones pueden ser configuradas directamente en QtDesigner para que vincular que sean
+ejecutadas por alg\'un evento dentro de la aplicaci\'on desde la IDE.
+
+\subsection{Paso a paso, ¿C\'omo creo una aplicaci\'on?}
+
 \subsection{BonusTrack: ¿Qu\'e cosas copadas tiene PyQt?}
 
 \subsubsection{Ventanas de di\'alogo para reutilizar}
