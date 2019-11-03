@@ -129,7 +129,7 @@ con display(int).
 \subsubsection{Action Editor}
 En el dise\~no de aplicaciones de escritorio se usa mucho el concepto de Comandos, proveniente del patr\'on de dise\~no, donde lo que se busca es que una acci\'on
 que es com\'unmente ejecutada por diversos eventos est\'e disponible de una forma distinta que un callback o slot. Eso es una QAction en PyQt.
-Para que quede claro, la opci\'on "Guardar", en una aplicaci\'on es un comando, y en PyQt se har\'ia como un QAction. De esta forma se puede vincular
+Para que quede claro, la opci\'on Guardar, en una aplicaci\'on es un comando, y en PyQt se har\'ia como un QAction. De esta forma se puede vincular
 para que sea disparada (.triggered()) por diferentes Widgets. S\'i, es casi lo mismo que un Slot.
 
 
@@ -137,6 +137,71 @@ Estas acciones pueden ser configuradas directamente en QtDesigner para que vincu
 ejecutadas por alg\'un evento dentro de la aplicaci\'on desde la IDE.
 
 \subsection{Paso a paso, ¿C\'omo creo una aplicaci\'on?}
+Asumimos que lo que se explica en las otras partes sobre QtDesigner ya se ley\'o, y esto s\'olo explica los pasos generales a seguir
+para llegar de principio a fin a nuestra aplicaci\'on ejecutable. Detalles sobre el dise\~no competen a otra secci\'on.
+
+\begin{itemize}
+    \item Creamos el Form que deseamos en QtDesigner. Sea QWidget, QDialog o QMainWindow.
+    \item Agregamos los Widgets y definimos un Layout, organizamos nuestra GUI.
+    \item Procuramos utilizar nombres representativos y bien definidos en el PropertyEditor.
+    \item Guardamos el archivo en nuestra carpeta, al igual que los dem\'as archivos como Resources si usamos.
+    \item Luego realizamos el proceso de compilaci\'on ejecutando los comandos, \nameref{compilar_design} y \nameref{compilar_recurso}.
+    \item A partir de esto obtenemos nuestro archivo .py compilado.
+\end{itemize}
+
+Hasta este punto, se ilustran a continuaci\'on las figuras que describen estos pasos, as\'i como la estructura propuesta de archivos para ello,
+que puede ser revisada en \nameref{estructura_programas}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.4]{imagenes/qtdesigner/qt_steps.PNG}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{imagenes/qtdesigner/qt_steps_1.PNG}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.8]{imagenes/qtdesigner/qt_steps_2.PNG}
+\end{figure}
+
+En la carpeta designer coloco los archivos propios del QtDesigner, luego en "ui" los resultados de la compilaci\'on. Finalmente en un nivel superior de directorio,
+creo un nuevo archivo slider.py en el cual crear\'e propiamente la clase, la construir\'e y luego realizar\'e las conexiones de la GUI con el backend de mi aplicaci\'on.
+
+\begin{lstlisting}{language=Python}
+# PyQt5 Modules
+from PyQt5.QtWidgets import QApplication
+from PyQt5.QtWidgets import QWidget
+
+# Project Modules
+from ui.slider import Ui_test_form
+
+
+class Slider(QWidget, Ui_test_form):
+    # Creamos nuestra clase Slider, hacemos que herede del resultado de la compilacion
+    # y de su Padre original en este caso QWidget.
+
+    def __init__(self):
+        # Creamos el constructor y llamamos al constructor de los padres
+        # luego utilizamos el metodo para la inicializacion de los widgets internos
+        super(Slider, self).__init__()
+        self.setupUi(self)
+
+
+if __name__ == "__main__.py":
+    # Contexto o aplicacion
+    app = QApplication([])
+
+    # Instancia para probar nuestra Widget
+    widget = Slider()
+    widget.show()
+
+    # Loop de eventos de la app
+    app.exec()
+
+\end{lstlisting}
 
 \subsection{BonusTrack: ¿Qu\'e cosas copadas tiene PyQt?}
 
