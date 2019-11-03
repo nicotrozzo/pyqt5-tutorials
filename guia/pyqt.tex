@@ -1,0 +1,31 @@
+\section{PyQt}
+
+\subsection{¿C\'omo estructurar los proyectos?}
+Los proyectos que involucran el dise\~no de una GUI utilizando PyQt5 estar\'an compuestos por el Backend y el Frontend, conceptos
+que vienen del desarrollo web, y podes ver \href{https://platzi.com/blog/que-es-frontend-y-backend/}{ac\'a}. Entonces, tu proyecto va a tener
+c\'odigo en Python de la GUI, de la l\'ogica de lo que hagas, y otros archivos como recursos, stylesheets, imagenes, etc... se propone la siguiente
+estructura de archivos muy utilizada en PyQt5, y Python en algunos casos:
+
+\begin{center}
+    \begin{minipage}{10cm}
+        \dirtree{%
+        .1 /project.
+        .2 /designer.
+        .3 {mainwindow.ui}.
+        .2 /resources.
+        .3 {logo.png}.
+        .2 /tests.
+        .3 {test\textunderscore backend.py}.
+        .2 {/src}.
+        .3 {\textunderscore\textunderscore init\textunderscore \textunderscore.py}.
+        .3 {app.py}.
+        .3 {mainwindow.py}.
+        .3 {/ui}.
+        .4 {mainwindow.py}.
+        .2 {main.py}.
+        .2 {test.py}.
+        .2 requirements.
+        .2 readme.
+        }
+    \end{minipage}
+\end{center}
