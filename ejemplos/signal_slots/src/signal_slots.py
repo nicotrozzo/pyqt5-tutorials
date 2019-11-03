@@ -3,7 +3,7 @@
 """
 
 # PyQt Modules
-from ejemplos.signal_slots.src.ui.signal_slots import *
+from src.ui.signal_slots import *
 
 
 class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):

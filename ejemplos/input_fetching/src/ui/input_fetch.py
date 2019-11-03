@@ -53,7 +53,7 @@ class Ui_MainWindow(object):
         self.msg_horas.setText(_translate("MainWindow", "Cuantas horas cursaste hoy?"))
 
 
-from ejemplos.input_fetching.src.input_fetch import *
+from src.input_fetch import *
 
 
 if __name__ == "__main__":

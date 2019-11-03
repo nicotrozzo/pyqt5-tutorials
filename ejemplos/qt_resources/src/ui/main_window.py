@@ -41,7 +41,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
 
 
-from ejemplos.qt_resources.src.main_window import *
+from src.resources.error_res import *
 
 
 if __name__ == "__main__":

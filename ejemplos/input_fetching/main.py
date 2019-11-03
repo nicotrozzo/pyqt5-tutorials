@@ -1,5 +1,5 @@
 # PyQt Modules
-from ejemplos.input_fetching.src.input_fetch import *
+from src.input_fetch import *
 
 # Python Modules
 import sys

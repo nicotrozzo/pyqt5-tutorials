@@ -1,5 +1,5 @@
 # PyQt Modules
-from ejemplos.qt_resources.src.main_window import *
+from src.main_window import *
 from PyQt5 import QtWidgets
 
 # Python Modules
@@ -10,4 +10,4 @@ if __name__ == "__main__":
     app = QtWidgets.QApplication([])
     window = MyWindow()
     window.show()
-    app.exec_()
+    sys.exit(app.exec_())
