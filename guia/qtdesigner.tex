@@ -136,6 +136,32 @@ para que sea disparada (.triggered()) por diferentes Widgets. S\'i, es casi lo m
 Estas acciones pueden ser configuradas directamente en QtDesigner para que vincular que sean
 ejecutadas por alg\'un evento dentro de la aplicaci\'on desde la IDE.
 
+\subsection{Layouts y Containers: ¿Qu\'e son?}
+Por el momento lo que deber\'iamos de saber es que cuando creamos nuestro Form, sea QWidget, QDialog o QMainWindow, inicialmente vamos a poder
+agregarle componentes a la GUI, no obstante cuando se lo crea por primera vez tales elementos quedan posicionados en ubicaciones \textbf{flotantes}.
+Para garantizar que la aplicaci\'on quede bien ordenada, y que el motor de Qt sea capaz de hacer el build y el resize, es necesario utilizar Layouts y Containers.
+
+\paragraph{Concepto clave:} Todo elemento de la GUI es un QWidget eventualmente, y todo QWidget puede albergar otros QWidgets, esto lo convierte en un container.
+
+\paragraph{Layout:} Existen cuatro tipo de Layouts, b\'asicamente describen la forma en que se ordenan los Widgets dentro de un Widget. Puede ser \textbf{Vertical} u \textbf{Horizontal},
+en tales casos se crea una pila de los Widgets en la orientaci\'on mencionada. Por otro lado est\'a \textbf{Grid} que los ordena por filas y columnas, y finalmente \textbf{Form}, que es un Grid
+que siempre tiene dos columnas. El layout se configura f\'acilmente con la barra de herramientas o click derecho en el Widget.
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{c c}
+        \includegraphics[scale=0.6]{imagenes/qtdesigner/qt_grid_layout.PNG} & 
+        \includegraphics[scale=0.6]{imagenes/qtdesigner/qt_vertical_layout.PNG} \\ 
+        \includegraphics[scale=0.6]{imagenes/qtdesigner/qt_horizontal_layout.PNG} & 
+        \includegraphics[scale=0.6]{imagenes/qtdesigner/qt_form_layout.PNG} 
+    \end{tabular}
+    \caption{Ejemplos de los Layouts}
+\end{figure}
+
+\paragraph{Containers:} Existen muchos tipos de containers, GroupBox, ScrollArea, ToolBox, TabWidget, StackedWidget, \'etc. La idea principal,
+es que definen una forma caracter\'istica de contener otros Widgets, por ejemplo, cuando utilizamos StackedWidget podemos desplazarnos entre Widgets
+como si fueran p\'aginas, a voluntad del usuario, o seg\'un lo programemos en Python.
+
 \subsection{Paso a paso, ¿C\'omo creo una aplicaci\'on?}
 Asumimos que lo que se explica en las otras partes sobre QtDesigner ya se ley\'o, y esto s\'olo explica los pasos generales a seguir
 para llegar de principio a fin a nuestra aplicaci\'on ejecutable. Detalles sobre el dise\~no competen a otra secci\'on.
