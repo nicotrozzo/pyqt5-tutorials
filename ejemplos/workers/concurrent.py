@@ -66,21 +66,17 @@ class Worker(QRunnable):
 
     @pyqtSlot()
     def run(self):
-        '''
-        Initialise the runner function with passed args, kwargs.
-        '''
-
         # Retrieve args/kwargs here; and fire processing using them
         try:
-            result = self.fn(*self.args, **self.kwargs)
-        except:
+            result = self.fn(*self.args, **self.kwargs)	# llama a la funcion de progreso
+        except:	# si hubo error
             traceback.print_exc()
             exctype, value = sys.exc_info()[:2]
             self.signals.error.emit((exctype, value, traceback.format_exc()))
         else:
-            self.signals.result.emit(result, self.n)  # Return the result of the processing
+            self.signals.result.emit(result, self.n)  # devuelve resultado del procesamiento, ademas pasa numero de worker
         finally:
-            self.signals.finished.emit(self.n)  # Done
+            self.signals.finished.emit(self.n)  # con self.n avisa qué worker terminó
 
 
 class MainWindow(QMainWindow):
@@ -92,9 +88,9 @@ class MainWindow(QMainWindow):
 
         self.layout = QVBoxLayout()
 
-        self.free_wrk = [True, True, True, True]
+        self.free_wrk = [True, True, True, True]	# indica si cada worker esta libre o no
 
-        self.wrk_labs = [QLabel(""), QLabel(""), QLabel(""), QLabel("")]
+        self.wrk_labs = [QLabel(""), QLabel(""), QLabel(""), QLabel("")]	# creo labels de cada worker
 
         self.l = QLabel("Start")
         b = QPushButton("DANGER!")
