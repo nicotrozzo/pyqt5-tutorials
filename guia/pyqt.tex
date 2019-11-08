@@ -132,4 +132,36 @@ haciendo una conexi\'on entre una propiedad de una clase y su ViewController en 
 
 \subsection{¿Qu\'e son los Stylesheets?}
 \label{qt_stylesheets}
+Los \textbf{Stylesheets} b\'asicamente es una sint\'axis que se emplea para describir el contenido de las propiedades
+de un Widget que definen el estilo del mismo, de forma tal que puede crearse un archivo con tal sint\'axis o bien cargarlo
+directo desde un String, alterando las propiedades y el estilo del Widget.
 
+En primer lugar, es importante tener en cuenta c\'omo funciona la \href{https://doc.qt.io/qt-5/stylesheet-syntax.html}{sint\'axis},
+adem\'as de un conocimiento de que la construcci\'on de una GUI internamente se compone como un \'arbol de Widgets, seg\'un estas se vean autocontenidas en otras
+Widgets de m\'as alto nivel. De esta forma, el Stylesheet puede configurar las propiedades del Widget a quien pertenece, o bien puede alterar las propiedades
+de los objetos que se contienen en esa Widget, seg\'un su tipo.
+M\'as sencillamente explicado, puedo cambiar el color de fondo de mi Widget, pero tambi\'en puedo decirle que cambie el fondo de todos los Botones dentro de mi Widget.
+
+\textbf{¿C\'omo modificar o configurar esto?}, por un lado puede realizarse directamente desde QtDesigner si lo estamos haciendo en el momento para darle estilo
+a nuestra aplicaci\'on. Como se muestra en la Fig. \ref{fig:qt_stylesheet_image}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.5]{imagenes/qtdesigner/stylesheets.PNG}
+    \caption{Configurar el estilo desde QtDesigner}
+    \label{fig:qt_stylesheet_image}
+\end{figure}
+
+Desde el c\'odigo la primera forma de hacerlo ser\'ia.
+
+\begin{lstlisting}{language=Python}
+    my_widget.setStyleSheet("background-color: black;")
+\end{lstlisting}
+
+Otra forma m\'as elegante y organizada ser'ia crear un archivo, supongamos \textbf{style.css} en donde
+albergamos todo el estilo que vamos a usar con la correcta sint\'axis antedicha, entonces en el c\'odigo...
+
+\begin{lstlisting}{language=Python}
+    with open("styles.css") as f:
+        my_widget.setStyleSheet(f.read())
+\end{lstlisting}
