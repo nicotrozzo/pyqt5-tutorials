@@ -2,26 +2,51 @@
 
 \subsection{¿C\'omo estructurar los proyectos?}
 \label{estructura_programas}
-Los proyectos que involucran el dise\~no de una GUI utilizando PyQt5 estar\'an compuestos por el Backend y el Frontend, conceptos
-que vienen del desarrollo web, y podes ver \href{https://platzi.com/blog/que-es-frontend-y-backend/}{ac\'a}. Entonces, tu proyecto va a tener
-c\'odigo en Python de la GUI, de la l\'ogica de lo que hagas, y otros archivos como recursos, stylesheets, imagenes, etc... se propone la siguiente
-estructura de archivos muy utilizada en PyQt5, y Python en algunos casos:
+Para estructurar los proyectos proponemos la siguiente estructura, obtenida inicialmente de lo que suele hacerse en PyQt5 y modificada 
+con nuestra experiencia. Es una sugerencia.
+
+\paragraph{/assets} Archivos multimedia, u otro tipo de archivos, utilizados como recursos gr\'aficos o como fuente de informaci\'on est\'atica.
+
+\paragraph{/designer} Archivos donde diseñamos el .ui en QtDesigner.
+
+\paragraph{/resources} Archivos de recursos creados en QtDesigner a partir de los assets.
+
+\paragraph{/tests} Si realizan pruebas, usando Unit Testing, o alguna otra tecnolog\'ia, o crudo.
+
+\paragraph{/src/package} Código independiente de la interfaz gr\'afica.
+
+\paragraph{/src/ui} Archivos compilados a partir de los .ui del QtDesigner.
+
+\paragraph{/src/resources} Archivos compilados a partir de los .qrc del QtDesigner
+
+\paragraph{/src/*.py} Ser\'an los archivos donde heredamos la interfaz compilada y conectamos la l\'ogica.
+
+\paragraph{/src/app.py} Creamos una funci\'on de la aplicaci\'on donde se instancia el MainWindow y se ejecuta el loop de eventos,
+que ser\'a llamado por el main.py. Por lo general, adquiere relevancia cuando hay m\'as conexiones a realizar, por ejemplo si el MainWindow
+necesitara conectarse a alg\'un servicio que corre con otro m\'odulo, o que se provee externamente cuando se la construye.
 
 \begin{center}
     \begin{minipage}{10cm}
         \dirtree{%
         .1 /project.
+        .2 /assets.
+        .3 /save-button.
+        .4 {save-press.png}.
+        .4 {save-hover.png}.
+        .4 {save-normal.png}.
         .2 /designer.
         .3 {mainwindow.ui}.
         .2 /resources.
-        .3 {resource.qrc}.
-        .3 {logo.png}.
+        .3 {buttons.qrc}.
         .2 /tests.
         .3 {test\textunderscore backend.py}.
         .2 {/src}.
         .3 {\textunderscore\textunderscore init\textunderscore \textunderscore.py}.
         .3 {app.py}.
         .3 {mainwindow.py}.
+        .3 /package.
+        .4 {user.py}.
+        .4 {game.py}.
         .3 {/ui}.
         .4 {mainwindow.py}.
         .3 {/resources}.

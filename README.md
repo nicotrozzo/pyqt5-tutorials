@@ -1,5 +1,14 @@
 # pyqt5-tutorials
 
-Codigos de ejemplo en la carpeta ejemplos
+## Guía explicativa
+Podes encontrar la guía explicativa, en .pdf, dentro de la carpeta **guía**, se llama *main.pdf*.
 
-Guia de introduccion a PyQt en la carpeta guia
+## Ejemplos
+Podes encontrar ejemplos varios, de las cosas explicadas en la guía, dentro de la carpeta **ejemplos**.
+
+## Samples
+Podes encontrar muestras de programas nuestros o de otras personasa (mayormente de PyQt5 oficial), en la carpeta **samples**.
+
+Cualquier duda, consulta, sugerencia o aporte pueden hacerlo vía fork/pull-request (será evaluado) o comunicarse con:
+lkammann@itba.edu.ar
+rtrozzo@itba.edu.ar

@@ -62,7 +62,7 @@ con lo cual esto debe tener un nombre adecuado a la convenci\'on de Python de fo
 \end{figure}
 
 \subsubsection{Property Editor}
-Cada uno de los objetos que pertenecen al \'arbol que muestra el Object Inspector, esta construido con un conjunto de clases a trav\'es del uso de un 
+Cada uno de los objetos que pertenecen al \'arbol que muestra el Object Inspector, est\'a construido con un conjunto de clases a trav\'es del uso de un 
 patr\'on de dise\~no de composici\'on. Lo importante es que podemos editar propiedades o atributos de cada una de esas partes que componen a nuestro objeto.
 
 \begin{figure}[H]
@@ -73,7 +73,7 @@ patr\'on de dise\~no de composici\'on. Lo importante es que podemos editar propi
 \end{figure}
 
 \subsubsection{Resource Browser}
-El Resource Browser es muy importante, b\'asicamente para poder crear una ventana en la cual queremos incorportar contenido personalizado, sean imagenes,
+El Resource Browser es muy importante, b\'asicamente para poder crear una ventana en la cual queremos incorporar contenido personalizado, sean im\'agenes,
 audio o videos, e incluso archivos... es necesario crear lo que se define como un \textbf{Resource}. Cuando lo creamos, internamente podemos crear subcarpetas
 para clasificar el contenido, por ejemplo, si queremos usar algunas imagenes para un bot\'on y otras para otro bot\'on, de esta forma cuando queramos utilizarlas estar\'an
 disponibles.
@@ -110,7 +110,7 @@ siempre, pero a veces se puede hacer en el modo de edici\'on mencionado, usando 
 
 En la Fig. \ref{fig:qt_signal_slot_0} se puede ver que nos aparece en rojo los Widgets, seleccionamos uno y arrastramos hacia otro,
 al conectarse nos permite elegir una Signal del primero con un Slot del seguno a ser ejecutado. En este caso puedo utilizar sliderMoved(int)
-con display(int).
+con display(int). Es importante que hayan Signal y Slot compatibles entre los Widgets a conectar.
 
 \begin{figure}[H]
     \centering
@@ -141,7 +141,8 @@ Por el momento lo que deber\'iamos saber es que cuando creamos nuestro Form, sea
 agregarle componentes a la GUI, no obstante cuando se lo crea por primera vez tales elementos quedan posicionados en ubicaciones \textbf{flotantes}.
 Para garantizar que la aplicaci\'on quede bien ordenada, y que el motor de Qt sea capaz de hacer el build y el resize, es necesario utilizar Layouts y Containers.
 
-\paragraph{Concepto clave:} Todo elemento de la GUI es un QWidget eventualmente, y todo QWidget puede albergar otros QWidgets, esto lo convierte en un container.
+\paragraph{Concepto clave:} Todo elemento de la GUI es un QWidget eventualmente, y todo QWidget puede albergar otros QWidgets, esto lo convierte en un container. Esta relaci\'on
+jer\'arquica (\'arbol), requiere la definici\'on de layouts para determinar c\'omo recalcular los tama\~nos y posiciones de widgets internos.
 
 \paragraph{Layout:} Existen cuatro tipo de Layouts, b\'asicamente describen la forma en que se ordenan los Widgets dentro de un Widget. Puede ser \textbf{Vertical} u \textbf{Horizontal},
 en tales casos se crea una pila de los Widgets en la orientaci\'on mencionada. Por otro lado est\'a \textbf{Grid} que los ordena por filas y columnas, y finalmente \textbf{Form}, que es un Grid
@@ -169,7 +170,7 @@ para llegar de principio a fin a nuestra aplicaci\'on ejecutable. Detalles sobre
 \begin{itemize}
     \item Creamos el Form que deseamos en QtDesigner. Sea QWidget, QDialog o QMainWindow.
     \item Agregamos los Widgets y definimos un Layout, organizamos nuestra GUI.
-    \item Procuramos utilizar nombres representativos y bien definidos en el PropertyEditor.
+    \item Procuramos utilizar nombres representativos y bien definidos en el PropertyEditor. Es agradable usar las convenciones de Python, dado que luego se acceder\'an como miembros de la clase.
     \item Guardamos el archivo en nuestra carpeta, al igual que los dem\'as archivos como Resources si usamos.
     \item Luego realizamos el proceso de compilaci\'on ejecutando los comandos, \nameref{compilar_design} y \nameref{compilar_recurso}.
     \item A partir de esto obtenemos nuestro archivo .py compilado.
@@ -193,7 +194,7 @@ que puede ser revisada en \nameref{estructura_programas}.
     \includegraphics[scale=0.8]{imagenes/qtdesigner/qt_steps_2.PNG}
 \end{figure}
 
-En la carpeta designer coloco los archivos propios del QtDesigner, luego en "ui" los resultados de la compilaci\'on. Finalmente en un nivel superior de directorio,
+En la carpeta designer coloco los archivos propios del QtDesigner, luego en /ui los resultados de la compilaci\'on. Finalmente en un nivel superior de directorio,
 creo un nuevo archivo slider.py en el cual crear\'e propiamente la clase, la construir\'e y luego realizar\'e las conexiones de la GUI con el backend de mi aplicaci\'on.
 
 \begin{lstlisting}{language=Python}
