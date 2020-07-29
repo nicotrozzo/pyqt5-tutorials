@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  29 JUL 2020 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.29)  29 JUL 2020 20:49
 entering extended mode
 **d:/Lucas/Projects/pyqt5-tutorials/guia/main.tex
 (d:/Lucas/Projects/pyqt5-tutorials/guia/main.tex
@@ -490,7 +490,7 @@ LaTeX Info: Redefining \nameref on input line 3.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<imagenes/qtdesigner/images.png, id=103, 262.9825pt x 192.72pt>
+<imagenes/qtdesigner/images.png, id=115, 262.9825pt x 192.72pt>
 File: imagenes/qtdesigner/images.png Graphic file (type png)
 <use imagenes/qtdesigner/images.png>
 Package pdftex.def Info: imagenes/qtdesigner/images.png  used on input line 16.
@@ -505,208 +505,208 @@ LaTeX Info: Redefining \% on input line 1.
 \openout5 = `main.toc'.
 
  [2] (generalidades.tex
-<imagenes/cmd/cmd_error.PNG, id=150, 157.33781pt x 13.55063pt>
+<imagenes/cmd/cmd_error.PNG, id=165, 157.33781pt x 13.55063pt>
 File: imagenes/cmd/cmd_error.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_error.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_error.PNG  used on input line 19.
 (pdftex.def)             Requested size: 157.33742pt x 13.55058pt.
-<imagenes/cmd/cmd_0.PNG, id=155, 1028.34187pt x 548.0475pt>
+<imagenes/cmd/cmd_0.PNG, id=170, 1028.34187pt x 548.0475pt>
 File: imagenes/cmd/cmd_0.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_0.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_0.PNG  used on input line 50.
 (pdftex.def)             Requested size: 308.50494pt x 164.41551pt.
  [3 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_error.PNG>]
-<imagenes/cmd/cmd_1.PNG, id=162, 1028.34187pt x 548.0475pt>
+<imagenes/cmd/cmd_1.PNG, id=177, 1028.34187pt x 548.0475pt>
 File: imagenes/cmd/cmd_1.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_1.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_1.PNG  used on input line 56.
 (pdftex.def)             Requested size: 308.50494pt x 164.41551pt.
-<imagenes/cmd/cmd_2.PNG, id=163, 1028.34187pt x 548.0475pt>
+<imagenes/cmd/cmd_2.PNG, id=178, 1028.34187pt x 548.0475pt>
 File: imagenes/cmd/cmd_2.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_2.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_2.PNG  used on input line 62.
 (pdftex.def)             Requested size: 308.50494pt x 164.41551pt.
-<imagenes/cmd/cmd_3.PNG, id=164, 310.15875pt x 365.86688pt>
+<imagenes/cmd/cmd_3.PNG, id=179, 310.15875pt x 365.86688pt>
 File: imagenes/cmd/cmd_3.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_3.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_3.PNG  used on input line 68.
 (pdftex.def)             Requested size: 93.04834pt x 109.76091pt.
  [4 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_0.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_1.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_2.PNG>]
-<imagenes/cmd/cmd_4.PNG, id=175, 465.23813pt x 440.39531pt>
+<imagenes/cmd/cmd_4.PNG, id=190, 465.23813pt x 440.39531pt>
 File: imagenes/cmd/cmd_4.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_4.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_4.PNG  used on input line 74.
 (pdftex.def)             Requested size: 139.57251pt x 132.1196pt.
-<imagenes/cmd/cmd_5.PNG, id=176, 396.7322pt x 377.15906pt>
+<imagenes/cmd/cmd_5.PNG, id=191, 396.7322pt x 377.15906pt>
 File: imagenes/cmd/cmd_5.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_5.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_5.PNG  used on input line 80.
 (pdftex.def)             Requested size: 119.02057pt x 113.14859pt.
-<imagenes/cmd/cmd_6.PNG, id=177, 571.38469pt x 352.31625pt>
+<imagenes/cmd/cmd_6.PNG, id=192, 571.38469pt x 352.31625pt>
 File: imagenes/cmd/cmd_6.PNG Graphic file (type png)
 <use imagenes/cmd/cmd_6.PNG>
 Package pdftex.def Info: imagenes/cmd/cmd_6.PNG  used on input line 86.
 (pdftex.def)             Requested size: 171.41672pt x 105.69568pt.
- [5 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_3.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_4.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_5.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_6.PNG>]) [6] (qtdesigner.tex
-<imagenes/qtdesigner/qt_new_file.PNG, id=196, 377.91188pt x 325.215pt>
+ [5 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_3.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_4.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_5.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/cmd/cmd_6.PNG>]) [6] (kt.tex) [7] (qtdesigner.tex
+<imagenes/qtdesigner/qt_new_file.PNG, id=219, 377.91188pt x 325.215pt>
 File: imagenes/qtdesigner/qt_new_file.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_new_file.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_new_file.PNG  used on input line 19.
 (pdftex.def)             Requested size: 302.32991pt x 260.17235pt.
-<imagenes/qtdesigner/qt_ide_0.png, id=198, 1028.34187pt x 548.0475pt>
+<imagenes/qtdesigner/qt_ide_0.png, id=221, 1028.34187pt x 548.0475pt>
 File: imagenes/qtdesigner/qt_ide_0.png Graphic file (type png)
 <use imagenes/qtdesigner/qt_ide_0.png>
 Package pdftex.def Info: imagenes/qtdesigner/qt_ide_0.png  used on input line 31.
 (pdftex.def)             Requested size: 452.47183pt x 241.14165pt.
- [7 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_new_file.PNG>]
-<imagenes/qtdesigner/qt_ide_1.png, id=209, 1028.34187pt x 548.0475pt>
+ [8 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_new_file.PNG>]
+<imagenes/qtdesigner/qt_ide_1.png, id=231, 1028.34187pt x 548.0475pt>
 File: imagenes/qtdesigner/qt_ide_1.png Graphic file (type png)
 <use imagenes/qtdesigner/qt_ide_1.png>
 Package pdftex.def Info: imagenes/qtdesigner/qt_ide_1.png  used on input line 42.
 (pdftex.def)             Requested size: 452.47183pt x 241.14165pt.
- [8 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_ide_0.png> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_ide_1.png>]
-<imagenes/qtdesigner/qt_object_inspector.PNG, id=215, 331.2375pt x 229.60782pt>
+ [9 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_ide_0.png> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_ide_1.png>]
+<imagenes/qtdesigner/qt_object_inspector.PNG, id=237, 331.2375pt x 229.60782pt>
 File: imagenes/qtdesigner/qt_object_inspector.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_object_inspector.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_object_inspector.PNG  used on input line 57.
 (pdftex.def)             Requested size: 231.86465pt x 160.72437pt.
-<imagenes/qtdesigner/qt_object_inspector_3.png, id=216, 657.2053pt x 331.2375pt>
+<imagenes/qtdesigner/qt_object_inspector_3.png, id=238, 657.2053pt x 331.2375pt>
 File: imagenes/qtdesigner/qt_object_inspector_3.png Graphic file (type png)
 <use imagenes/qtdesigner/qt_object_inspector_3.png>
 Package pdftex.def Info: imagenes/qtdesigner/qt_object_inspector_3.png  used on input line 58.
 (pdftex.def)             Requested size: 262.87746pt x 132.49265pt.
-<imagenes/qtdesigner/qt_property_editor.PNG, id=217, 330.48468pt x 235.63031pt>
+<imagenes/qtdesigner/qt_property_editor.PNG, id=239, 330.48468pt x 235.63031pt>
 File: imagenes/qtdesigner/qt_property_editor.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_property_editor.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_property_editor.PNG  used on input line 70.
 (pdftex.def)             Requested size: 231.33769pt x 164.94008pt.
- [9 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_object_inspector.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_object_inspector_3.png> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_property_editor.PNG>]
-<imagenes/qtdesigner/qt_resource_browser_0.PNG, id=226, 331.2375pt x 279.29344pt>
+ [10 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_object_inspector.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_object_inspector_3.png> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_property_editor.PNG>]
+<imagenes/qtdesigner/qt_resource_browser_0.PNG, id=248, 331.2375pt x 279.29344pt>
 File: imagenes/qtdesigner/qt_resource_browser_0.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_resource_browser_0.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_resource_browser_0.PNG  used on input line 83.
 (pdftex.def)             Requested size: 231.86465pt x 195.50407pt.
-<imagenes/qtdesigner/qt_resource_browser_1.PNG, id=227, 354.57469pt x 262.73157pt>
+<imagenes/qtdesigner/qt_resource_browser_1.PNG, id=249, 354.57469pt x 262.73157pt>
 File: imagenes/qtdesigner/qt_resource_browser_1.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_resource_browser_1.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_resource_browser_1.PNG  used on input line 90.
 (pdftex.def)             Requested size: 248.20059pt x 183.91083pt.
-<imagenes/qtdesigner/qt_resource_browser_2.PNG, id=228, 354.57469pt x 262.73157pt>
+<imagenes/qtdesigner/qt_resource_browser_2.PNG, id=250, 354.57469pt x 262.73157pt>
 File: imagenes/qtdesigner/qt_resource_browser_2.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_resource_browser_2.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_resource_browser_2.PNG  used on input line 97.
 (pdftex.def)             Requested size: 248.20059pt x 183.91083pt.
- [10 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_resource_browser_0.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_resource_browser_1.PNG>]
-<imagenes/qtdesigner/qt_signal_slot_mode.PNG, id=239, 448.67625pt x 410.2828pt>
+ [11 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_resource_browser_0.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_resource_browser_1.PNG>]
+<imagenes/qtdesigner/qt_signal_slot_mode.PNG, id=261, 448.67625pt x 410.2828pt>
 File: imagenes/qtdesigner/qt_signal_slot_mode.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_signal_slot_mode.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_signal_slot_mode.PNG  used on input line 117.
 (pdftex.def)             Requested size: 269.20782pt x 246.17157pt.
- [11 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_resource_browser_2.PNG>]
-<imagenes/qtdesigner/qt_slot_singla.PNG, id=247, 353.82187pt x 203.25937pt>
+ [12 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_resource_browser_2.PNG>]
+<imagenes/qtdesigner/qt_slot_singla.PNG, id=269, 353.82187pt x 203.25937pt>
 File: imagenes/qtdesigner/qt_slot_singla.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_slot_singla.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_slot_singla.PNG  used on input line 124.
 (pdftex.def)             Requested size: 212.29475pt x 121.95656pt.
- [12 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_signal_slot_mode.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_slot_singla.PNG>]
-<imagenes/qtdesigner/qt_grid_layout.PNG, id=255, 316.93407pt x 197.98969pt>
+ [13 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_signal_slot_mode.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_slot_singla.PNG>]
+<imagenes/qtdesigner/qt_grid_layout.PNG, id=278, 316.93407pt x 197.98969pt>
 File: imagenes/qtdesigner/qt_grid_layout.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_grid_layout.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_grid_layout.PNG  used on input line 154.
 (pdftex.def)             Requested size: 190.1619pt x 118.79472pt.
-<imagenes/qtdesigner/qt_vertical_layout.PNG, id=256, 146.04562pt x 228.10219pt>
+<imagenes/qtdesigner/qt_vertical_layout.PNG, id=279, 146.04562pt x 228.10219pt>
 File: imagenes/qtdesigner/qt_vertical_layout.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_vertical_layout.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_vertical_layout.PNG  used on input line 155.
 (pdftex.def)             Requested size: 87.62804pt x 136.86235pt.
-<imagenes/qtdesigner/qt_horizontal_layout.PNG, id=257, 300.3722pt x 95.6072pt>
+<imagenes/qtdesigner/qt_horizontal_layout.PNG, id=280, 300.3722pt x 95.6072pt>
 File: imagenes/qtdesigner/qt_horizontal_layout.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_horizontal_layout.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_horizontal_layout.PNG  used on input line 156.
 (pdftex.def)             Requested size: 180.22469pt x 57.36475pt.
-<imagenes/qtdesigner/qt_form_layout.PNG, id=258, 156.585pt x 116.68594pt>
+<imagenes/qtdesigner/qt_form_layout.PNG, id=281, 156.585pt x 116.68594pt>
 File: imagenes/qtdesigner/qt_form_layout.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_form_layout.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_form_layout.PNG  used on input line 157.
 (pdftex.def)             Requested size: 93.95172pt x 70.01208pt.
-<imagenes/qtdesigner/qt_steps.PNG, id=262, 816.80156pt x 473.51906pt>
+<imagenes/qtdesigner/qt_steps.PNG, id=285, 816.80156pt x 473.51906pt>
 File: imagenes/qtdesigner/qt_steps.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_steps.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_steps.PNG  used on input line 184.
 (pdftex.def)             Requested size: 326.71483pt x 189.40425pt.
- [13 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_grid_layout.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_vertical_layout.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_horizontal_layout.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_form_layout.PNG>]
-<imagenes/qtdesigner/qt_steps_1.PNG, id=277, 636.12656pt x 24.84282pt>
+ [14 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_grid_layout.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_vertical_layout.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_horizontal_layout.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_form_layout.PNG>]
+<imagenes/qtdesigner/qt_steps_1.PNG, id=299, 636.12656pt x 24.84282pt>
 File: imagenes/qtdesigner/qt_steps_1.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_steps_1.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_steps_1.PNG  used on input line 189.
 (pdftex.def)             Requested size: 445.28555pt x 17.38983pt.
-<imagenes/qtdesigner/qt_steps_2.PNG, id=278, 102.3825pt x 123.46124pt>
+<imagenes/qtdesigner/qt_steps_2.PNG, id=300, 102.3825pt x 123.46124pt>
 File: imagenes/qtdesigner/qt_steps_2.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_steps_2.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_steps_2.PNG  used on input line 194.
 (pdftex.def)             Requested size: 81.9061pt x 98.7691pt.
- [14 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_steps.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_steps_1.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_steps_2.PNG>]
-<imagenes/qtdesigner/qt_color_dialog.PNG, id=316, 394.47375pt x 319.94531pt>
+ [15 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_steps.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_steps_1.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_steps_2.PNG>]
+<imagenes/qtdesigner/qt_color_dialog.PNG, id=338, 394.47375pt x 319.94531pt>
 File: imagenes/qtdesigner/qt_color_dialog.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_color_dialog.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_color_dialog.PNG  used on input line 248.
 (pdftex.def)             Requested size: 157.7867pt x 127.97585pt.
-<imagenes/qtdesigner/qt_font_dialog.PNG, id=317, 377.91188pt x 295.1025pt>
+<imagenes/qtdesigner/qt_font_dialog.PNG, id=339, 377.91188pt x 295.1025pt>
 File: imagenes/qtdesigner/qt_font_dialog.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_font_dialog.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_font_dialog.PNG  used on input line 249.
 (pdftex.def)             Requested size: 188.95547pt x 147.55087pt.
-<imagenes/qtdesigner/qt_message_dialog.PNG, id=318, 201.00093pt x 93.34875pt>
+<imagenes/qtdesigner/qt_message_dialog.PNG, id=340, 201.00093pt x 93.34875pt>
 File: imagenes/qtdesigner/qt_message_dialog.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_message_dialog.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_message_dialog.PNG  used on input line 250.
 (pdftex.def)             Requested size: 120.60147pt x 56.00967pt.
-<imagenes/qtdesigner/qt_file_dialog.PNG, id=319, 1017.8025pt x 542.77782pt>
+<imagenes/qtdesigner/qt_file_dialog.PNG, id=341, 1017.8025pt x 542.77782pt>
 File: imagenes/qtdesigner/qt_file_dialog.PNG Graphic file (type png)
 <use imagenes/qtdesigner/qt_file_dialog.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/qt_file_dialog.PNG  used on input line 251.
 (pdftex.def)             Requested size: 203.5569pt x 108.55363pt.
-) [15 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_color_dialog.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_font_dialog.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_message_dialog.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_file_dialog.PNG>] (pyqt.tex [16]
+) [16 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_color_dialog.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_font_dialog.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_message_dialog.PNG> <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/qt_file_dialog.PNG>] (pyqt.tex [17]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 83.
  ("C:\Program Files\MiKTeX\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 83.
- [17]
-<imagenes/qtdesigner/stylesheets.PNG, id=399, 691.08188pt x 383.18156pt>
+ [18]
+<imagenes/qtdesigner/stylesheets.PNG, id=421, 691.08188pt x 383.18156pt>
 File: imagenes/qtdesigner/stylesheets.PNG Graphic file (type png)
 <use imagenes/qtdesigner/stylesheets.PNG>
 Package pdftex.def Info: imagenes/qtdesigner/stylesheets.PNG  used on input line 175.
 (pdftex.def)             Requested size: 345.54008pt x 191.5903pt.
- [18 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/stylesheets.PNG>]) [19] (todo.tex) [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
+ [19 <d:/Lucas/Projects/pyqt5-tutorials/guia/imagenes/qtdesigner/stylesheets.PNG>]) [20] (todo.tex) [21]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 30.
  (d:/Lucas\Projects\pyqt5-tutorials\guia\main.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 28.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 28.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 30.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 30.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 14A5270963CC540D417657ED1C63BE40;1883.
+(rerunfilecheck)             Checksum: 577B4BD640A94F7E5734460A6E478964;2061.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12765 strings out of 481225
- 204260 string characters out of 2915928
+ 12778 strings out of 481225
+ 204430 string characters out of 2915928
  604035 words of memory out of 3000000
- 27887 multiletter control sequences out of 15000+200000
+ 27893 multiletter control sequences out of 15000+200000
  542237 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,13n,50p,854b,1983s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Lucas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on d:/Lucas\Projects\pyqt5-tutorials\guia\main.pdf (20 pages, 739229 bytes).
+Output written on d:/Lucas\Projects\pyqt5-tutorials\guia\main.pdf (21 pages, 743236 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 176 named destinations out of 1000 (max. 500000)
- 361 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 540 PDF objects out of 1000 (max. 8388607)
+ 180 named destinations out of 1000 (max. 500000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,34 +6,37 @@
 \contentsline {subsection}{¿No te funcionan?}{3}{section*.7}%
 \contentsline {subsection}{Compilar los dise\~nos de QtDesigner}{6}{section*.15}%
 \contentsline {subsection}{Compilar los recursos de QtDesigner}{6}{section*.16}%
-\contentsline {section}{QtDesigner: ¿C\'omo se usa?}{7}{section*.17}%
-\contentsline {subsection}{Creaci\'on de un Form}{7}{section*.18}%
-\contentsline {subsection}{¿Qu\'e es cada cosa en la IDE?}{7}{section*.20}%
-\contentsline {subsubsection}{Object Inspector}{8}{section*.23}%
-\contentsline {subsubsection}{Property Editor}{9}{section*.25}%
-\contentsline {subsubsection}{Resource Browser}{10}{section*.27}%
-\contentsline {subsubsection}{Signal/Slot Editor}{11}{section*.31}%
-\contentsline {subsubsection}{Action Editor}{12}{section*.34}%
-\contentsline {subsection}{Layouts y Containers: ¿Qu\'e son?}{12}{section*.35}%
-\contentsline {paragraph}{Concepto clave:}{13}{section*.36}%
-\contentsline {paragraph}{Layout:}{13}{section*.37}%
-\contentsline {paragraph}{Containers:}{13}{section*.39}%
-\contentsline {subsection}{Paso a paso, ¿C\'omo creo una aplicaci\'on?}{13}{section*.40}%
-\contentsline {subsection}{BonusTrack: ¿Qu\'e cosas copadas tiene PyQt?}{15}{section*.44}%
-\contentsline {subsubsection}{Ventanas de di\'alogo para reutilizar}{15}{section*.45}%
-\contentsline {section}{PyQt}{16}{section*.47}%
-\contentsline {subsection}{¿C\'omo estructurar los proyectos?}{16}{section*.48}%
-\contentsline {paragraph}{/assets}{16}{section*.49}%
-\contentsline {paragraph}{/designer}{16}{section*.50}%
-\contentsline {paragraph}{/resources}{16}{section*.51}%
-\contentsline {paragraph}{/tests}{16}{section*.52}%
-\contentsline {paragraph}{/src/package}{16}{section*.53}%
-\contentsline {paragraph}{/src/ui}{16}{section*.54}%
-\contentsline {paragraph}{/src/resources}{16}{section*.55}%
-\contentsline {paragraph}{/src/*.py}{16}{section*.56}%
-\contentsline {paragraph}{/src/app.py}{16}{section*.57}%
-\contentsline {subsection}{¿Qu\'e son Signals, Slots?}{17}{section*.58}%
-\contentsline {paragraph}{Signals y Slots:}{17}{section*.59}%
-\contentsline {subsection}{¿Qu\'e son los Property?}{17}{section*.60}%
-\contentsline {subsection}{¿Qu\'e son los Stylesheets?}{18}{section*.61}%
-\contentsline {section}{Horizonte: ¿Que m\'as puedo hacer?}{20}{section*.63}%
+\contentsline {section}{Herramienta kt}{7}{section*.17}%
+\contentsline {subsection}{¿Qu\'e es?}{7}{section*.18}%
+\contentsline {subsection}{Instalaci\'on}{7}{section*.19}%
+\contentsline {section}{QtDesigner: ¿C\'omo se usa?}{8}{section*.20}%
+\contentsline {subsection}{Creaci\'on de un Form}{8}{section*.21}%
+\contentsline {subsection}{¿Qu\'e es cada cosa en la IDE?}{8}{section*.23}%
+\contentsline {subsubsection}{Object Inspector}{9}{section*.26}%
+\contentsline {subsubsection}{Property Editor}{10}{section*.28}%
+\contentsline {subsubsection}{Resource Browser}{11}{section*.30}%
+\contentsline {subsubsection}{Signal/Slot Editor}{12}{section*.34}%
+\contentsline {subsubsection}{Action Editor}{13}{section*.37}%
+\contentsline {subsection}{Layouts y Containers: ¿Qu\'e son?}{13}{section*.38}%
+\contentsline {paragraph}{Concepto clave:}{14}{section*.39}%
+\contentsline {paragraph}{Layout:}{14}{section*.40}%
+\contentsline {paragraph}{Containers:}{14}{section*.42}%
+\contentsline {subsection}{Paso a paso, ¿C\'omo creo una aplicaci\'on?}{14}{section*.43}%
+\contentsline {subsection}{BonusTrack: ¿Qu\'e cosas copadas tiene PyQt?}{16}{section*.47}%
+\contentsline {subsubsection}{Ventanas de di\'alogo para reutilizar}{16}{section*.48}%
+\contentsline {section}{PyQt}{17}{section*.50}%
+\contentsline {subsection}{¿C\'omo estructurar los proyectos?}{17}{section*.51}%
+\contentsline {paragraph}{/assets}{17}{section*.52}%
+\contentsline {paragraph}{/designer}{17}{section*.53}%
+\contentsline {paragraph}{/resources}{17}{section*.54}%
+\contentsline {paragraph}{/tests}{17}{section*.55}%
+\contentsline {paragraph}{/src/package}{17}{section*.56}%
+\contentsline {paragraph}{/src/ui}{17}{section*.57}%
+\contentsline {paragraph}{/src/resources}{17}{section*.58}%
+\contentsline {paragraph}{/src/*.py}{17}{section*.59}%
+\contentsline {paragraph}{/src/app.py}{17}{section*.60}%
+\contentsline {subsection}{¿Qu\'e son Signals, Slots?}{18}{section*.61}%
+\contentsline {paragraph}{Signals y Slots:}{18}{section*.62}%
+\contentsline {subsection}{¿Qu\'e son los Property?}{18}{section*.63}%
+\contentsline {subsection}{¿Qu\'e son los Stylesheets?}{19}{section*.64}%
+\contentsline {section}{Horizonte: ¿Que m\'as puedo hacer?}{21}{section*.66}%

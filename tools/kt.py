@@ -171,6 +171,19 @@ def compile(args):
     # Termine!
     log('Compilación finalizada con éxito!')
 
+def help(args):
+    """ Muestra en consola un texto de ayuda.
+    """
+    msg = """ Comandos disponibles:
+
+        + app: Crear un proyecto con su estructura de directorio.
+            kt.py app myAppName
+
+        + compile: Compilar .ui y .qrc dentro del proyecto estructurado.
+            kt.py compile
+    """
+    log(msg)
+
 def main(args):
     # Filtrando directorio no deseado
     args = args[1:]
@@ -181,7 +194,8 @@ def main(args):
         command = args[0]
         dispatcher = {
             'app': create_app,
-            'compile': compile
+            'compile': compile,
+            'help': help
         }
         
         # Dispatching requests...
@@ -189,6 +203,7 @@ def main(args):
             dispatcher[command](args)
         else:
             log('Comando no encontrado.')
+            help(args)
     else:
         log('Se necesita un comando para ejecutar.')
 
