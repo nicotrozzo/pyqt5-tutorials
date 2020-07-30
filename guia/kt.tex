@@ -26,7 +26,7 @@ debemos ir a la carpeta principal del proyecto, y ejecuta la siguiente l\'inea. 
 de la herramienta, en su creaci\'on no era usado pero se dej\'o por futuras funcionalidades.
 
 \begin{center}
-    \textbf{kt.py app NombreDeAplicaci\'on}
+    \textbf{kt.py app}
 \end{center}
 
 \begin{figure}[H]
@@ -58,3 +58,34 @@ pero ya no m\'as. En la carpeta del proyecto, debemos ejecutar,
     \caption{Compilaci\'on de proyecto real con herramienta kt}
     \label{fig:muestra_compilacion_kt}
 \end{figure}
+
+\subsubsection{Distribuci\'on .exe con .dll's}
+Si desean crear una distribuci\'on ejecutable sin depender de tener el interprete de Python, o proteger su c\'odigo,
+se puede crear un archivo ejecutable en conjunto de las librer\'ias din\'amicas que fueron utilizadas. Para ello,
+
+\begin{center}
+    \textbf{kt.py build}
+\end{center}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{imagenes/kt/build.png}
+    \caption{Creando ejecutable con kt}
+    \label{fig:creacion_ejecutable_kt}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{imagenes/kt/dist.png}
+    \caption{Carpeta distribuible}
+    \label{fig:carpeta_distribuible_kt}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{imagenes/kt/main.png}
+    \caption{Archivo ejecutable en la carpeta}
+    \label{fig:ejecutable_kt}
+\end{figure}
+
+

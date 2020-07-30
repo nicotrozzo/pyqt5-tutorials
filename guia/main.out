@@ -11,21 +11,22 @@
 \BOOKMARK [2][-]{section*.20}{Uso}{section*.17}% 11
 \BOOKMARK [3][-]{section*.21}{Creaci\363n de un proyecto}{section*.20}% 12
 \BOOKMARK [3][-]{section*.23}{Compilaci\363n de .ui y .qrc}{section*.20}% 13
-\BOOKMARK [1][-]{section*.26}{QtDesigner: \277C\363mo se usa?}{}% 14
-\BOOKMARK [2][-]{section*.27}{Creaci\363n de un Form}{section*.26}% 15
-\BOOKMARK [2][-]{section*.29}{\277Qu\351 es cada cosa en la IDE?}{section*.26}% 16
-\BOOKMARK [3][-]{section*.32}{Object Inspector}{section*.29}% 17
-\BOOKMARK [3][-]{section*.34}{Property Editor}{section*.29}% 18
-\BOOKMARK [3][-]{section*.36}{Resource Browser}{section*.29}% 19
-\BOOKMARK [3][-]{section*.40}{Signal/Slot Editor}{section*.29}% 20
-\BOOKMARK [3][-]{section*.43}{Action Editor}{section*.29}% 21
-\BOOKMARK [2][-]{section*.44}{Layouts y Containers: \277Qu\351 son?}{section*.26}% 22
-\BOOKMARK [2][-]{section*.49}{Paso a paso, \277C\363mo creo una aplicaci\363n?}{section*.26}% 23
-\BOOKMARK [2][-]{section*.53}{BonusTrack: \277Qu\351 cosas copadas tiene PyQt?}{section*.26}% 24
-\BOOKMARK [3][-]{section*.54}{Ventanas de di\341logo para reutilizar}{section*.53}% 25
-\BOOKMARK [1][-]{section*.56}{PyQt}{}% 26
-\BOOKMARK [2][-]{section*.57}{\277C\363mo estructurar los proyectos?}{section*.56}% 27
-\BOOKMARK [2][-]{section*.67}{\277Qu\351 son Signals, Slots?}{section*.56}% 28
-\BOOKMARK [2][-]{section*.69}{\277Qu\351 son los Property?}{section*.56}% 29
-\BOOKMARK [2][-]{section*.70}{\277Qu\351 son los Stylesheets?}{section*.56}% 30
-\BOOKMARK [1][-]{section*.72}{Horizonte: \277Que m\341s puedo hacer?}{}% 31
+\BOOKMARK [3][-]{section*.26}{Distribuci\363n .exe con .dll's}{section*.20}% 14
+\BOOKMARK [1][-]{section*.30}{QtDesigner: \277C\363mo se usa?}{}% 15
+\BOOKMARK [2][-]{section*.31}{Creaci\363n de un Form}{section*.30}% 16
+\BOOKMARK [2][-]{section*.33}{\277Qu\351 es cada cosa en la IDE?}{section*.30}% 17
+\BOOKMARK [3][-]{section*.36}{Object Inspector}{section*.33}% 18
+\BOOKMARK [3][-]{section*.38}{Property Editor}{section*.33}% 19
+\BOOKMARK [3][-]{section*.40}{Resource Browser}{section*.33}% 20
+\BOOKMARK [3][-]{section*.44}{Signal/Slot Editor}{section*.33}% 21
+\BOOKMARK [3][-]{section*.47}{Action Editor}{section*.33}% 22
+\BOOKMARK [2][-]{section*.48}{Layouts y Containers: \277Qu\351 son?}{section*.30}% 23
+\BOOKMARK [2][-]{section*.53}{Paso a paso, \277C\363mo creo una aplicaci\363n?}{section*.30}% 24
+\BOOKMARK [2][-]{section*.57}{BonusTrack: \277Qu\351 cosas copadas tiene PyQt?}{section*.30}% 25
+\BOOKMARK [3][-]{section*.58}{Ventanas de di\341logo para reutilizar}{section*.57}% 26
+\BOOKMARK [1][-]{section*.60}{PyQt}{}% 27
+\BOOKMARK [2][-]{section*.61}{\277C\363mo estructurar los proyectos?}{section*.60}% 28
+\BOOKMARK [2][-]{section*.71}{\277Qu\351 son Signals, Slots?}{section*.60}% 29
+\BOOKMARK [2][-]{section*.73}{\277Qu\351 son los Property?}{section*.60}% 30
+\BOOKMARK [2][-]{section*.74}{\277Qu\351 son los Stylesheets?}{section*.60}% 31
+\BOOKMARK [1][-]{section*.76}{Horizonte: \277Que m\341s puedo hacer?}{}% 32
