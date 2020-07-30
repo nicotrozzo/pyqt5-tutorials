@@ -3,6 +3,40 @@ import os
 
 __REQUIREMENTS__ = """PyQt5"""
 
+__MAINWINDOW__UI__ = """<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
+
+"""
+
 __MAINWINDOW__ = """# PyQt5 modules
 from PyQt5.QtWidgets import QMainWindow
 
@@ -77,34 +111,31 @@ def create_app(args):
     """ Ejecuta el comando de creación de una aplicación en el directorio actual.
         @param args: Parámetros de consola
     """
-    if len(args) == 2:
-        # Buscando el nombre de la aplicación
-        app_name = args[1]
-        log(f'Comenzando creación de aplicación {app_name}')
+    # Buscando el nombre de la aplicación
+    log(f'Comenzando creación de aplicación')
 
-        # Creando el arbol de la estructura del proyecto
-        app_structure = {
-            'assets': None,
-            'designer': None,
-            'resources': None,
-            'tests': None,
-            'src': {
-                '__init__.py': None,
-                'app.py': __APP__,
-                'mainwindow.py': __MAINWINDOW__,
-                'package': None,
-                'ui': None,
-                'resources': None
-            },
-            'main.py': __MAIN__,
-            'requirements.txt': __REQUIREMENTS__
-        }
-        create_structure(app_structure)
+    # Creando el arbol de la estructura del proyecto
+    app_structure = {
+        'assets': None,
+        'designer': {
+            'mainwindow.ui': __MAINWINDOW__UI__
+        },
+        'resources': None,
+        'tests': None,
+        'src': {
+            '__init__.py': None,
+            'app.py': __APP__,
+            'mainwindow.py': __MAINWINDOW__,
+            'package': None,
+            'ui': None,
+            'resources': None
+        },
+        'main.py': __MAIN__,
+        'requirements.txt': __REQUIREMENTS__
+    }
+    create_structure(app_structure)
 
-        log('Proyecto creado!')
-        log('ATENCION, debes crear el mainwindow.ui en /designer y ejecutar el compile. En /src/mainwindow.py se hace uso de esta compilacion inexistente por ahora, esperando que se llame MainWindow el QMainWindow creado.')
-    else:
-        log('Para crear una aplicación ejecutar: kt.py COMANDO NOMBRE_DE_APLICACIÓN')
+    log('Proyecto creado! A programar...')
 
 def compile(args):
     """ Busca los archivos .ui y .qrc y los compila y mueve automaticamente.
@@ -177,12 +208,23 @@ def help(args):
     msg = """ Comandos disponibles:
 
         + app: Crear un proyecto con su estructura de directorio.
-            kt.py app myAppName
+            kt.py app
 
         + compile: Compilar .ui y .qrc dentro del proyecto estructurado.
             kt.py compile
+
+        + build: Crea .exe distribuible con sus correspondientes .dll
+            kt.py build
+        
+        + help: Menu de ayuda
+            kt.py help
     """
     log(msg)
+
+def build(arg):
+    """ Crea una version distribuible .exe con sus librerias dinamicas.
+    """
+    os.system('pyinstaller main.py --noconfirm --noconsole --clean')
 
 def main(args):
     # Filtrando directorio no deseado
@@ -195,7 +237,8 @@ def main(args):
         dispatcher = {
             'app': create_app,
             'compile': compile,
-            'help': help
+            'help': help,
+            'build': build
         }
         
         # Dispatching requests...
