@@ -16,4 +16,4 @@ lkammann@itba.edu.ar
 
 rtrozzo@itba.edu.ar
 
-Todxs son bienvenidxs a contribuir.
+Todxs sxn bienvenidxs a contribuir.
