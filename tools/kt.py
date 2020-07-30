@@ -135,7 +135,10 @@ def create_app(args):
     }
     create_structure(app_structure)
 
-    log('Proyecto creado! A programar...')
+    log('Proyecto creado!')
+    log('Corriendo compilacion inicial...')
+    compile(args)
+    log('Ya podes ejecutar tu aplicación con Python, con main.py')
 
 def compile(args):
     """ Busca los archivos .ui y .qrc y los compila y mueve automaticamente.
