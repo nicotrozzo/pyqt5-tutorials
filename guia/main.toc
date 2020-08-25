@@ -6,41 +6,44 @@
 \contentsline {subsection}{¿No te funcionan?}{3}{section*.7}%
 \contentsline {subsection}{Compilar los dise\~nos de QtDesigner}{6}{section*.15}%
 \contentsline {subsection}{Compilar los recursos de QtDesigner}{6}{section*.16}%
-\contentsline {section}{Herramienta kt}{7}{section*.17}%
-\contentsline {subsection}{¿Qu\'e es?}{7}{section*.18}%
-\contentsline {subsection}{Instalaci\'on}{7}{section*.19}%
-\contentsline {subsection}{Uso}{7}{section*.20}%
-\contentsline {subsubsection}{Creaci\'on de un proyecto}{7}{section*.21}%
-\contentsline {subsubsection}{Compilaci\'on de .ui y .qrc}{8}{section*.23}%
-\contentsline {subsubsection}{Distribuci\'on .exe con .dll's}{9}{section*.26}%
-\contentsline {section}{QtDesigner: ¿C\'omo se usa?}{11}{section*.30}%
-\contentsline {subsection}{Creaci\'on de un Form}{11}{section*.31}%
-\contentsline {subsection}{¿Qu\'e es cada cosa en la IDE?}{11}{section*.33}%
-\contentsline {subsubsection}{Object Inspector}{12}{section*.36}%
-\contentsline {subsubsection}{Property Editor}{13}{section*.38}%
-\contentsline {subsubsection}{Resource Browser}{14}{section*.40}%
-\contentsline {subsubsection}{Signal/Slot Editor}{15}{section*.44}%
-\contentsline {subsubsection}{Action Editor}{16}{section*.47}%
-\contentsline {subsection}{Layouts y Containers: ¿Qu\'e son?}{16}{section*.48}%
-\contentsline {paragraph}{Concepto clave:}{17}{section*.49}%
-\contentsline {paragraph}{Layout:}{17}{section*.50}%
-\contentsline {paragraph}{Containers:}{17}{section*.52}%
-\contentsline {subsection}{Paso a paso, ¿C\'omo creo una aplicaci\'on?}{17}{section*.53}%
-\contentsline {subsection}{BonusTrack: ¿Qu\'e cosas copadas tiene PyQt?}{19}{section*.57}%
-\contentsline {subsubsection}{Ventanas de di\'alogo para reutilizar}{19}{section*.58}%
-\contentsline {section}{PyQt}{20}{section*.60}%
-\contentsline {subsection}{¿C\'omo estructurar los proyectos?}{20}{section*.61}%
-\contentsline {paragraph}{/assets}{20}{section*.62}%
-\contentsline {paragraph}{/designer}{20}{section*.63}%
-\contentsline {paragraph}{/resources}{20}{section*.64}%
-\contentsline {paragraph}{/tests}{20}{section*.65}%
-\contentsline {paragraph}{/src/package}{20}{section*.66}%
-\contentsline {paragraph}{/src/ui}{20}{section*.67}%
-\contentsline {paragraph}{/src/resources}{20}{section*.68}%
-\contentsline {paragraph}{/src/*.py}{20}{section*.69}%
-\contentsline {paragraph}{/src/app.py}{20}{section*.70}%
-\contentsline {subsection}{¿Qu\'e son Signals, Slots?}{21}{section*.71}%
-\contentsline {paragraph}{Signals y Slots:}{21}{section*.72}%
-\contentsline {subsection}{¿Qu\'e son los Property?}{21}{section*.73}%
-\contentsline {subsection}{¿Qu\'e son los Stylesheets?}{22}{section*.74}%
-\contentsline {section}{Horizonte: ¿Que m\'as puedo hacer?}{24}{section*.76}%
+\contentsline {section}{Troubleshooting: ¿Problemas?}{7}{section*.17}%
+\contentsline {subsection}{Agregu\'e pyqt-tutorials/tools al path pero no reconoce comando}{7}{section*.18}%
+\contentsline {subsection}{kt.py dice que necesita comandos aunque se los pasé}{7}{section*.19}%
+\contentsline {section}{Herramienta kt}{8}{section*.20}%
+\contentsline {subsection}{¿Qu\'e es?}{8}{section*.21}%
+\contentsline {subsection}{Instalaci\'on}{8}{section*.22}%
+\contentsline {subsection}{Uso}{8}{section*.23}%
+\contentsline {subsubsection}{Creaci\'on de un proyecto}{8}{section*.24}%
+\contentsline {subsubsection}{Compilaci\'on de .ui y .qrc}{9}{section*.26}%
+\contentsline {subsubsection}{Distribuci\'on .exe con .dll's}{10}{section*.29}%
+\contentsline {section}{QtDesigner: ¿C\'omo se usa?}{12}{section*.33}%
+\contentsline {subsection}{Creaci\'on de un Form}{12}{section*.34}%
+\contentsline {subsection}{¿Qu\'e es cada cosa en la IDE?}{12}{section*.36}%
+\contentsline {subsubsection}{Object Inspector}{13}{section*.39}%
+\contentsline {subsubsection}{Property Editor}{14}{section*.41}%
+\contentsline {subsubsection}{Resource Browser}{15}{section*.43}%
+\contentsline {subsubsection}{Signal/Slot Editor}{16}{section*.47}%
+\contentsline {subsubsection}{Action Editor}{17}{section*.50}%
+\contentsline {subsection}{Layouts y Containers: ¿Qu\'e son?}{17}{section*.51}%
+\contentsline {paragraph}{Concepto clave:}{18}{section*.52}%
+\contentsline {paragraph}{Layout:}{18}{section*.53}%
+\contentsline {paragraph}{Containers:}{18}{section*.55}%
+\contentsline {subsection}{Paso a paso, ¿C\'omo creo una aplicaci\'on?}{18}{section*.56}%
+\contentsline {subsection}{BonusTrack: ¿Qu\'e cosas copadas tiene PyQt?}{20}{section*.60}%
+\contentsline {subsubsection}{Ventanas de di\'alogo para reutilizar}{20}{section*.61}%
+\contentsline {section}{PyQt}{21}{section*.63}%
+\contentsline {subsection}{¿C\'omo estructurar los proyectos?}{21}{section*.64}%
+\contentsline {paragraph}{/assets}{21}{section*.65}%
+\contentsline {paragraph}{/designer}{21}{section*.66}%
+\contentsline {paragraph}{/resources}{21}{section*.67}%
+\contentsline {paragraph}{/tests}{21}{section*.68}%
+\contentsline {paragraph}{/src/package}{21}{section*.69}%
+\contentsline {paragraph}{/src/ui}{21}{section*.70}%
+\contentsline {paragraph}{/src/resources}{21}{section*.71}%
+\contentsline {paragraph}{/src/*.py}{21}{section*.72}%
+\contentsline {paragraph}{/src/app.py}{21}{section*.73}%
+\contentsline {subsection}{¿Qu\'e son Signals, Slots?}{22}{section*.74}%
+\contentsline {paragraph}{Signals y Slots:}{22}{section*.75}%
+\contentsline {subsection}{¿Qu\'e son los Property?}{22}{section*.76}%
+\contentsline {subsection}{¿Qu\'e son los Stylesheets?}{23}{section*.77}%
+\contentsline {section}{Horizonte: ¿Que m\'as puedo hacer?}{25}{section*.79}%

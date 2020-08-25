@@ -1,7 +1,7 @@
-PWD d:\Lucas\Projects\pyqt5-tutorials\guia
-INPUT C:\Users\Lucas\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.tex
-OUTPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.log
+PWD c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia
+INPUT C:\Users\Lucas A. Kammann\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.tex
+OUTPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.log
 INPUT preambulo.tex
 INPUT preambulo.tex
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -146,9 +146,9 @@ INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.aux
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.aux
-OUTPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.aux
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.aux
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.aux
+OUTPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
@@ -163,22 +163,22 @@ INPUT C:\Program Files\MiKTeX\tex\latex\refcount\refcount.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\refcount\refcount.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-OUTPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.pdf
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-OUTPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+OUTPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.pdf
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+OUTPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\images.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -192,221 +192,223 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Lucas\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Users\Lucas A. Kammann\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.toc
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.toc
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.toc
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-OUTPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.toc
+OUTPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.toc
 INPUT generalidades.tex
 INPUT generalidades.tex
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_error.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_3.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_4.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_5.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\cmd\cmd_6.PNG
+INPUT troubleshooting.tex
+INPUT troubleshooting.tex
 INPUT kt.tex
 INPUT kt.tex
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\app.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\app.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\app.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\app.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\app.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\compile.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\compile.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\compile.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\compile.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\compile.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\muestra.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\muestra.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\muestra.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\muestra.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\muestra.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\build.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\build.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\build.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\build.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\build.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\dist.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\dist.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\dist.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\dist.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\dist.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\main.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\main.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\main.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\main.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\kt\main.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\app.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\app.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\app.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\app.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\app.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\compile.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\compile.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\compile.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\compile.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\compile.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\muestra.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\muestra.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\muestra.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\muestra.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\muestra.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\build.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\build.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\build.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\build.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\build.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\dist.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\dist.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\dist.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\dist.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\dist.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\main.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\main.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\main.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\main.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\kt\main.png
 INPUT qtdesigner.tex
 INPUT qtdesigner.tex
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_new_file.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_0.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_ide_1.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_object_inspector_3.png
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_property_editor.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_0.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_resource_browser_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_signal_slot_mode.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_slot_singla.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_grid_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_vertical_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_horizontal_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_form_layout.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_1.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_steps_2.PNG
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_color_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_font_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_message_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\qt_file_dialog.PNG
 INPUT pyqt.tex
 INPUT pyqt.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\base\omscmr.fd
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\imagenes\qtdesigner\stylesheets.PNG
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm0800.tfm
 INPUT todo.tex
 INPUT todo.tex
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.aux
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-INPUT d:\Lucas\Projects\pyqt5-tutorials\guia\main.out
-INPUT C:\Users\Lucas\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0800.pk
-INPUT C:\Users\Lucas\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0800.pk
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.aux
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+INPUT c:\Users\Lucas A. Kammann\Documents\GitHub\pyqt5-tutorials\guia\main.out
+INPUT C:\Users\Lucas A. Kammann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0800.pk
+INPUT C:\Users\Lucas A. Kammann\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0800.pk
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

@@ -1,0 +1,13 @@
+\section{Troubleshooting: ¿Problemas?}
+
+\subsection{Agregu\'e pyqt-tutorials/tools al path pero no reconoce comando}
+En algunas situaciones ha sucedido que no pod\'ian correr el script kt.py directamente
+porque ten\'ian configurado el sistema operativo para identificar las extensiones *.py como
+propias de PyCharm, en vez de Python. Configurando correctamente esto, ejecuta kt.py.
+
+\subsection{kt.py dice que necesita comandos aunque se los pasé}
+En algunas situaciones, sucedi\'o que Python estaba mal instalado de forma tal que, cuando se ejecuta un
+script desde la l\'inea de comandos, no le pasa al script los argumentos de la misma. Para solucionar esto
+hay que corregir una entrada del registry de Windows. Revisar el siguiente link,
+
+https://stackoverflow.com/questions/2640971/windows-is-not-passing-command-line-arguments-to-python-programs-executed-from-t
